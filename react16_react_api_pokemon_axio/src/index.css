@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+select {
+  height: 2rm;
+  width: 4rem;
+  font-size: 1rem;
+  padding-left: 2rem;
+  direction: ;
+}

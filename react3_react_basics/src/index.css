@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Fraunces:wght@700&family=Hanken+Grotesk:wght@500&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=League+Spartan:wght@400;500;700&family=Montserrat:ital,wght@0,500;1,200&family=Open+Sans&family=Outfit:wght@300;400;600&family=Overpass:wght@400;700&family=Playpen+Sans:wght@700&family=Red+Hat+Display:wght@500;700;900&family=Roboto:wght@300&family=Rubik:ital@1&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  color: rgb(225, 88, 88);
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 0 29x 4x rgb(231, 94, 94);
+  margin: 2rem;
+  font-family: Agbalumo, sans-serif;
+  font-size: 3rem;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3.5rem 0;
+}
+
+img {
+  width: 250px;
+}

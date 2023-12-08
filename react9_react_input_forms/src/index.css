@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 0, 234);
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  
+}
+
+button {
+  display: block;
+}
+
+input {
+  padding: 0.5rem 4rem;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+label {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+button {
+  padding: 0.5rem 7.1rem;
+  background-color: rgba(34, 201, 223, 0.966);
+  border: 5px double white;
+  border-radius: 2rem;
+  box-shadow: 2px 2px 5px 2px black;
+  color: white;
+  font-weight: 600;
+}
